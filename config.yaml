@@ -1,0 +1,11 @@
+server:
+  port: 3000
+  log_level: debug
+  gin_mode: debug
+database:
+  host: localhost
+  user: yen
+  name: gingin
+  port: 5432
+  sslmode: disable
+  timezone: Asia/Taipei
